@@ -23,8 +23,8 @@ export default function App() {
       }
     ],
     merchantInfo: {
-      merchantId: "BCR2DN4TZK3YDJ22",//"BCR2DN4T7KTLHXK6",
-      // merchantName: "123Milhas"
+      merchantId: "BCR2DN4T7KTLHXK6",
+      merchantName: "123Milhas"
     },
     transactionInfo: {
       totalPriceStatus: "FINAL",
